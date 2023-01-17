@@ -1,8 +1,8 @@
 # De HTML a React
 
-Hola hola, este repositorio es para repasar todo lo que hemos aprendido, desde HTML5 y CSS3 hasta React :rocket:
+### Objectivo
 
-### Pasos
+El objectivo de esta actidad es repasar todo lo que hemos aprendido, desde HTML5 y CSS3 hasta React :rocket:
 
 #### Galeria
 
