@@ -2,7 +2,7 @@
 
 ### Objectivo
 
-El objectivo de esta actidad es repasar todo lo que hemos aprendido, desde HTML5 y CSS3 hasta React :rocket:
+El objectivo de esta actividad es repasar todo lo que hemos aprendido, desde HTML5 y CSS3 hasta React :rocket:
 
 #### Galeria
 
