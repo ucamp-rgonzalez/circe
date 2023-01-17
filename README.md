@@ -6,7 +6,7 @@ Hola hola, este repositorio es para repasar todo lo que hemos aprendido, desde H
 
 #### Galeria
 
-Crear una galeria para visualizar imagenes, debe cumplir con lo siguiente
+Crear una galeria para visualizar imagenes
   - Propuesta de diseño
   - Maquetacion con HTML5
   - Header, Footer
