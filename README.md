@@ -4,7 +4,7 @@
 
 El objectivo de esta actividad es repasar todo lo que hemos aprendido, desde HTML5 y CSS3 hasta React :rocket:
 
-#### Galeria
+### Galeria
 
 Crear una galeria para visualizar imagenes
   - Propuesta de diseño
